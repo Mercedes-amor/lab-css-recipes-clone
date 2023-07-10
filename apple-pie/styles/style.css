@@ -22,3 +22,42 @@ body {
 
 /* STYLES */
 /* Write your CSS below */
+
+/*BODY*/
+
+div {
+  padding: 50px;
+}
+.img-cabecera {
+  background-image: url("file:///C:/Users/Programaci%C3%B3n/Desktop/Iron%20Hack/Labs/Semana%201/lab-css-recipes-clone/apple-pie/images/apple-pie.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 200px;
+  padding-top: 200px;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+ 
+}
+h1 {
+  padding: 10px;
+ }
+#parrafo {
+  text-align: center;
+}
+.lista {
+  margin: 20px;
+  padding: 20px;
+  font-weight: lighter;
+  list-style-type: square;
+}
+
+.img-info {
+  margin: auto;
+  padding: 10px;
+  display: block;
+  text-align: center;
+}
